@@ -50,7 +50,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "OpenGeoVis",
-          "text": "Creating open source solutions for geoscientific visualization<br><br>We are still in incubation. Check back later",
+          "text": "Creating open source solutions for geoscientific visualization<br><br>We are still in incubation. Please check back later",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://github.com/OpenGeoVis\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-github mbr-iconfont mbr-iconfont-btn\"></span>GitHub</a> ",
           "_tags": [
             "Theme"
