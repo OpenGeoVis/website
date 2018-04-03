@@ -14,14 +14,15 @@
     "siteUrl": "undefined",
     "versionFirst": "4.6.5",
     "uniqCompNum": 1,
-    "versionPublish": "4.6.5"
+    "versionPublish": "4.6.5",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "OpenGeoVis",
+        "meta_descr": "Creating open source solutions for geoscientific visualization",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
